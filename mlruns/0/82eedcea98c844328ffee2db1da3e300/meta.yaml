@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chaitanyajitendragirase/Documents/GitHub/End-to-End-MLops/mlruns/0/82eedcea98c844328ffee2db1da3e300/artifacts
+end_time: 1691303914776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82eedcea98c844328ffee2db1da3e300
+run_name: lyrical-bird-52
+run_uuid: 82eedcea98c844328ffee2db1da3e300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691303912461
+status: 3
+tags: []
+user_id: chaitanyajitendragirase

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chaitanyajitendragirase/Documents/GitHub/End-to-End-MLops/mlruns/0/ebbf70363cef45a7aa9ccd6b24919548/artifacts
+end_time: 1691302351855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebbf70363cef45a7aa9ccd6b24919548
+run_name: magnificent-frog-48
+run_uuid: ebbf70363cef45a7aa9ccd6b24919548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691302349567
+status: 3
+tags: []
+user_id: chaitanyajitendragirase
