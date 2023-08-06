@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chaitanyajitendragirase/Documents/GitHub/End-to-End-MLops/mlruns/0/0d3e5baa14444edeabe0cbf2846f7d29/artifacts
+end_time: 1691307226463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d3e5baa14444edeabe0cbf2846f7d29
+run_name: sneaky-croc-819
+run_uuid: 0d3e5baa14444edeabe0cbf2846f7d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691307223979
+status: 3
+tags: []
+user_id: chaitanyajitendragirase
