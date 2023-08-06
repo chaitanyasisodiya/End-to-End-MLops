@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chaitanyajitendragirase/Documents/GitHub/End-to-End-MLops/mlruns/0/dc7fa263e5bd4943aad000de77f63c71/artifacts
+end_time: 1691309589829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc7fa263e5bd4943aad000de77f63c71
+run_name: exultant-fly-660
+run_uuid: dc7fa263e5bd4943aad000de77f63c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691309587517
+status: 3
+tags: []
+user_id: chaitanyajitendragirase

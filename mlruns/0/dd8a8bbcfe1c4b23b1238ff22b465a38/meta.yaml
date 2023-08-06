@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chaitanyajitendragirase/Documents/GitHub/End-to-End-MLops/mlruns/0/dd8a8bbcfe1c4b23b1238ff22b465a38/artifacts
+end_time: 1691309466636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd8a8bbcfe1c4b23b1238ff22b465a38
+run_name: masked-deer-481
+run_uuid: dd8a8bbcfe1c4b23b1238ff22b465a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691309464254
+status: 3
+tags: []
+user_id: chaitanyajitendragirase
